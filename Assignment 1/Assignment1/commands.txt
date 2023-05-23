@@ -1,0 +1,3 @@
+javac *.java
+java SearchServer
+java ClientRequest

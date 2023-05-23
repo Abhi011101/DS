@@ -1,0 +1,3 @@
+javac -cp "%MPJ_HOME%\lib\mpj.jar" ArraySumMPI.java
+
+%MPJ_HOME%\bin\mpjrun.bat -cp .;"%MPJ_HOME%\lib\mpj.jar" ArraySumMPI
